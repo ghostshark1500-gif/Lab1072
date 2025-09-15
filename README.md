@@ -1,7 +1,6 @@
 # Lab1072
 
-Project untuk install dan menjalankan video/audio di Termux.
-
+Project untuk menginstall audio dan vidio ditermunal, bisajiga mencari dan memutar music dari YouTube yang anda inginkan 
 ## Cara install
 
 ```bash
