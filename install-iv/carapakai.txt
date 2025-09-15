@@ -1,0 +1,8 @@
+cara pakainya secara berikut
+1. install dulu modul²nya
+2. tambahkan hak exsekusi dengan perintah ini1
+ >>> chmod +x iv
+ 3. pindahkan ke bin supaya bisa dijalankan dimana saja
+  >>> cp iv ../usr/bin 
+  4. coba jalankan dengan perintah
+   >>> iv --help
